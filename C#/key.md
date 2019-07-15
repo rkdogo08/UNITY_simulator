@@ -20,8 +20,9 @@
 
    
 - 좌우/앞뒤 이동키 & W,A,S,D  
-     Input.GetAxis("Horizontal")  
-     Input.GetAxis("vertical")   
+  
+      Input.GetAxis("Horizontal")  
+      Input.GetAxis("vertical")   
           
      
  
