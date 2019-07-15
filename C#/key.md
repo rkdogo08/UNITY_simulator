@@ -6,6 +6,8 @@
         {
             ...;
         }
+
+  
 -       Input.GetKeyDown   
      지정된 키를 누를 때 한번만 true가 반환됨.
 
